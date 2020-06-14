@@ -10,7 +10,7 @@ import java.util.Set;
 
 
 /*
- * Build a simple Hangman Game with Animals
+ * Build a simple Hangman Game with Animals keywords
  * @author Nhien Lam
  */
 public class Hangman 
