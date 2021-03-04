@@ -1,5 +1,5 @@
 # HangmanGame
-A simple Hangman Game with Animals keywords
+A simple Hangman Game with Animals keywords. Just for fun.
 
 # What I Learned
 - java.util.Random
